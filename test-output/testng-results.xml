@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-12T14:02:23 IST" name="Default suite" finished-at="2023-10-12T14:02:23 IST" duration-ms="79">
+    <groups>
+    </groups>
+    <test started-at="2023-10-12T14:02:23 IST" name="Default test" finished-at="2023-10-12T14:02:23 IST" duration-ms="79">
+      <class name="com.app.TTD.demo.TestPopulationSearch">
+        <test-method signature="findpopulation()[pri:0, instance:com.app.TTD.demo.TestPopulationSearch@71238fc2]" started-at="2023-10-12T14:02:23 IST" name="findpopulation" finished-at="2023-10-12T14:02:23 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findpopulation -->
+        <test-method signature="findpopulationEmptyInput()[pri:0, instance:com.app.TTD.demo.TestPopulationSearch@71238fc2]" started-at="2023-10-12T14:02:23 IST" name="findpopulationEmptyInput" finished-at="2023-10-12T14:02:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findpopulationEmptyInput -->
+        <test-method signature="findpopulationInvalidInput()[pri:0, instance:com.app.TTD.demo.TestPopulationSearch@71238fc2]" started-at="2023-10-12T14:02:23 IST" name="findpopulationInvalidInput" finished-at="2023-10-12T14:02:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findpopulationInvalidInput -->
+      </class> <!-- com.app.TTD.demo.TestPopulationSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

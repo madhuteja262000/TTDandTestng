@@ -1,0 +1,17 @@
+<project> 
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Lesson3-TDDFramework</groupId>
+  <artifactId>Lesson3-TDDFramework</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Selenium-Basics</name>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.7.1</version>
+    <scope>test</scope>
+</dependency>
+  
+  </dependencies>
+</project>
